@@ -1,0 +1,5 @@
+1024 Alice       Math    65 125
+1167 Maryann     Stat    68 140
+1168 Thomas      Biology 68 190
+1201 Benedictine Geology 68 190
+1302 Felicia1    Stat    63 115
